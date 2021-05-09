@@ -28,8 +28,8 @@ public class Main {
 
     static void zadanie2(){
         System.out.println("-- ZADANIE 2 ---");
-        Human human = new Human("Maciej", "Marcinkowski", 420);
-        Human human1 = new Human("Jan", "Kolanko", 90);
+        Human human = new Human("Dominik", "Żaczek", 420);
+        Human human1 = new Human("Jan", "Kowalski", 90);
 
         humanList.add(human);
         humanList.add(human1);
